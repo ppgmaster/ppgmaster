@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ppgmaster
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# how to install
+```php
+$ pkg install git python -y
+$ git clone https://github.com/ppgmaster/WATSON
+$ cd WATSON
+$ pip install -r requirements.txt
+$ python main.py
+```
+<h3><a href="https://m.facebook.com/profile.php?id=100074193274907">contact me on facebook</a></h3><br><br>
 
-<!---
-ppgmaster/ppgmaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
